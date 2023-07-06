@@ -7,3 +7,8 @@ npm install
 npm run dev
 ```
 
+### Screenshots
+![/raw/login.png](raw/login.png)
+
+### License
+[MIT](https://choosealicense.com/licenses/mit/)

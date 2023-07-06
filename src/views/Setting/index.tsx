@@ -1,8 +1,7 @@
 const Setting = () => {
     return (
         <div>
-
-            设置
+            Setting
         </div>
     )
 }
