@@ -3,7 +3,7 @@ const Home = () => {
 
     return (
         <div>
-            首页
+            Home
         </div>
     )
 }
